@@ -1,0 +1,6 @@
+{
+  "name": "SunRice Agro",
+  "description": "Premium Quality Rice Exporter & Supplier Nagpur. Sourced from tribal regions, sortex cleaned, and hygienically packed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
